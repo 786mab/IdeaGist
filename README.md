@@ -1,5 +1,5 @@
-# IdeaGist
-Entrepreneurship 
+# IdeaGist (Entrepreneurship )
+Aquaponics Business Optimization
 
 # Aquaponics: A Sustainable and Profitable Way to Produce Food for Businesses
 
