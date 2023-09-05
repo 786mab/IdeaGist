@@ -67,7 +67,7 @@ Discover the intricacies of aquaponics system development and optimization. This
 <!-- Challenges faced in aquaponics system development
 - Real-world case study showcasing a successful aquaponics project -->
 
-Explore the presentation by clicking [here](https://docs.google.com/presentation/d/1W95rqKE6VEuvkp7dqhyM9nn0WWsuOH0J/edit?usp=sharing&ouid=101539487211070126702&rtpof=true&sd=true).
+Explore the presentation by clicking [here](https://docs.google.com/presentation/d/1HeykdzfxNEmt0mqTOVdjxbk3378P-6cNToG0LgkIZnQ/edit?usp=sharing).
 
 ## Conclusion
 
